@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Shazra!
 
-<!--
-**Shazra97/shazra97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 I'm a passionate learner exploring the world of Python programming.
+💡 I love turning simple ideas into small projects and learning something new every day.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently learning: Python
+
+💻 Building: Mini projects like calculators, number analyzers, and text-based games
+
+🎯 Goal: Become a confident Python developer
+
+💬 Always curious about coding and problem-solving
+
+🧠 Skills & Tools
+
+🐍 Python
+
+🧩 Git & GitHub
+
+✨ Basic programming logic & debugging
+
+🗂️ Understanding of data structures like lists and dictionaries
+
+📊 Projects
+
+Here are a few of my simple practice projects:
+
+🔢 Smart Calculator (using match-case)
+
+🧮 Even–Odd Analyzer (with for loop)
+
+📝 Student Result Dictionary
+
+You can find them in my repositories section!
+
+🌼 Connect With Me
+
+📧 Email: shazranoor@gmail.com
+]
+💬 Let's learn, share, and grow together in the coding journey!
+
+⭐ “Keep learning, keep building — every line of code takes you one step closer to your goal.”
